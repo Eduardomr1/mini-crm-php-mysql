@@ -1,0 +1,9 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #333;
+}
+.badge-nuevo { background-color: #17a2b8; color: white; }
+.badge-contactado { background-color: #ffc107; color: #212529; }
+.badge-en_negociacion { background-color: #fd7e14; color: white; }
+.badge-ganado { background-color: #28a745; color: white; }
+.badge-perdido { background-color: #6c757d; color: white; }
